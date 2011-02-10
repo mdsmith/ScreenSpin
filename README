@@ -9,4 +9,4 @@ Author: Martin Smith
 Created: February 9, 2011
 GNU GPL and all that
 
-Invoke with bash, or make it executable and invoke with ./spin.sh
+Invoke with bash (NOT SH, $RANDOM might not work correctly), or make it executable and invoke with ./spin.sh
